@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T16:17:37.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="FWKG2flt7qutZgt4zzNi" version="16.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T16:22:54.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="qx5NCYVYl_gTTNeZtCd_" version="16.2.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lqNqw1jk2ZbrGZ0mJdBE-1" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="70" y="30" width="160" height="120" as="geometry" />
+        <mxCell id="lqNqw1jk2ZbrGZ0mJdBE-1" value="OEMs" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="lqNqw1jk2ZbrGZ0mJdBE-2" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="lqNqw1jk2ZbrGZ0mJdBE-1">
+        <mxCell id="lqNqw1jk2ZbrGZ0mJdBE-2" value="name&#xa;contact details&#xa;components&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="lqNqw1jk2ZbrGZ0mJdBE-1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
