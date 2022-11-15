@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CraigW1
 - 👀 I’m interested in Renewable Energy, namely Floating Offshore Wind
-- 🌱 I’m currently learning Python, SQLm MATLAB
+- 🌱 I’m currently learning Python, SQL, MATLAB
 - 💞️ I’m looking to collaborate on Python based techno-economic modelling
 - 📫 How to reach me https://www.linkedin.com/in/craig-white-1330b832/
 
